@@ -1,0 +1,16 @@
+{
+  "name": "banco-de-dados-orientado-a-documentos",
+  "version": "1.0.0",
+  "description": "Curso Tera de banco de dados orientado a documentos - NoSql _____",
+  "main": "script.js",
+  "scripts": {
+    "start": "book.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.5"
+  }
+}
